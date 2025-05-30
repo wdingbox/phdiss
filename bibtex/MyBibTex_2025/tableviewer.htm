@@ -72,7 +72,7 @@
                     if ("string" === dtyp) {
                         MyBibTexAry[idx][keys] = text;
                     } else if ("object" === dtyp) {
-                        MyBibTexAry[idx][keys] = text;
+                        MyBibTexAry[idx][keys] = JSON.parse(text);
                     } else if (undefined === dtyp) {
 
                     } else {

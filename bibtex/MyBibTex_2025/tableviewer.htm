@@ -1,0 +1,82 @@
+<html>
+<header>
+    <meta http-equiv="Content-Type" content="text/html;" charset="UTF-8">
+
+    <script src="../../js/jq.js" type="text/javascript"></script>
+
+    <script language="javascript" src="../../js/Rapid_Sort_Table.js?rev=250104"></script>
+
+    <script src="./MyBibTex_2025.json.js" type="text/javascript"></script>
+    <script>
+        $(function () {
+            MyBibTexReader_keyObj();
+            showkeys();
+            showbibtx();
+            var rst = new Rapid_Sort_Table("#tab")
+        })
+        function MyBibTexReader_keyObj() {
+            var keyObj = {}
+            MyBibTexAry.forEach(function (data) {
+
+                // 'data' is the parsed JSON object
+                console.log(data);
+                Object.keys(data).forEach(function (ky) {
+                    keyObj[ky] = 1
+                })
+
+                // Access specific data
+                console.log(data.length);
+
+                // Loop through an array in the JSON
+                $.each(data, function (index, item) {
+                    console.log(item);
+                });
+            })
+
+            return keyObj;
+        }
+
+
+        function showkeys() {
+            var ths = "<th>#</th>"
+            Object.keys(MyBibTexReader_keyObj()).forEach(function (key) {
+                ths += `<th>${key}</th>`
+            })
+            $("#thd").html(`<tr>${ths}</tr>`)
+        }
+        function showbibtx() {
+            var keyary = Object.keys(MyBibTexReader_keyObj());
+            var trs = "", idx = 0
+            MyBibTexAry.forEach(function (obj) {
+                trs += `<tr><td>${idx++}</td>`
+                keyary.forEach(function (key) {
+                    var txt = "", dtyp = typeof (obj[key]);
+                    if (dtyp === "string") txt = obj[key]
+
+                    if (dtyp === "object") txt = JSON.stringify(obj[key],null,4);
+
+                    trs += `<td title='${dtyp}'>${txt}</td>`
+                })
+                trs += "</tr>"
+            })
+            $("#tbd").html(trs);
+            
+        }
+
+    </script>
+</header>
+
+<body>
+    <table border="1" id="tab">
+        <thead id="thd">
+
+        </thead>
+        <tbody id="tbd" contenteditable="true">
+
+        </tbody>
+    </table>
+
+
+</body>
+
+</html>

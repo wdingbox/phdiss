@@ -53,20 +53,45 @@
                     var txt = "", dtyp = typeof (obj[key]);
                     if (dtyp === "string") txt = obj[key]
 
-                    if (dtyp === "object") txt = JSON.stringify(obj[key],null,4);
+                    if (dtyp === "object") txt = JSON.stringify(obj[key], null, 4);
 
-                    trs += `<td title='${dtyp}'>${txt}</td>`
+                    trs += `<td keyname='${key}' title='${key} : ${dtyp}'>${txt}</td>`
                 })
                 trs += "</tr>"
             })
             $("#tbd").html(trs);
-            
+
         }
 
+        function TabExport() {
+            $("#tbd tr").each(function (idx) {
+                $(this).find("td").each(function () {
+                    var keys = $(this).attr("keyname");
+                    var dtyp = $(this).attr("dtyp");
+                    var text = $(this).text();
+                    if ("string" === dtyp) {
+                        MyBibTexAry[ix][keys] = text;
+                    } else if ("object" === dtyp) {
+                        MyBibTexAry[ix][keys] = text;
+                    } else if (undefined === dtyp) {
+
+                    } else {
+                        alert("data type=" + dtyp)
+                    }
+                })
+                var str = JSON.stringify(MyBibTexAry, null, 4)
+                $("#txa").val(str)
+            })
+
+        }
     </script>
 </header>
 
 <body>
+    <div style="position: fixed; left: 10px;">
+        <button onclick="TabExport()">TabExport</button>
+        <textarea id="txa"></textarea>
+    </div>
     <table border="1" id="tab">
         <thead id="thd">
 

@@ -21,7 +21,7 @@
                 // 'data' is the parsed JSON object
                 console.log(data);
                 Object.keys(data).forEach(function (ky) {
-                    keyObj[ky] = 1
+                    keyObj[ky] = typeof data[ky]
                 })
 
                 // Access specific data
@@ -45,18 +45,17 @@
             $("#thd").html(`<tr>${ths}</tr>`)
         }
         function showbibtx() {
-            var keyary = Object.keys(MyBibTexReader_keyObj());
+            var KeyObj = MyBibTexReader_keyObj();
             var trs = "", idx = 0
             MyBibTexAry.forEach(function (obj) {
                 trs += `<tr><td>${idx++}</td>`
-                keyary.forEach(function (key) {
-                    var txt = "", dtyp = typeof (obj[key]);
+                for ([key, sobjtyp] of Object.entries(KeyObj)) {
+                    var txt = "", dtyp = '' + typeof (obj[key]);
                     if (dtyp === "string") txt = obj[key]
-
                     if (dtyp === "object") txt = JSON.stringify(obj[key], null, 4);
-
-                    trs += `<td keyname='${key}' title='${key} : ${dtyp}'>${txt}</td>`
-                })
+                    if (undefined == obj[key]) txt = ""
+                    trs += `<td keyname='${key}' dtyp='${sobjtyp}' title='${key} : ${sobjtyp}'>${txt}</td>`
+                }
                 trs += "</tr>"
             })
             $("#tbd").html(trs);
@@ -64,19 +63,36 @@
         }
 
         function TabExport() {
-            $("#tbd tr").each(function (idx) {
-                $(this).find("td").each(function () {
-                    var keys = $(this).attr("keyname");
+            $("#tbd tr").each(function (rowidx) {
+                $(this).find("td").each(function (colidx) {
+                    var _this = this;
+                    if (colidx === 0) return
+                    var skey = $(this).attr("keyname");
+                    var text = $(this).text().trim();
                     var dtyp = $(this).attr("dtyp");
-                    var text = $(this).text();
-                    if ("string" === dtyp) {
-                        MyBibTexAry[idx][keys] = text;
-                    } else if ("object" === dtyp) {
-                        MyBibTexAry[idx][keys] = JSON.parse(text);
-                    } else if (undefined === dtyp) {
-
+                    var val = ""
+                    if ("object" === dtyp) {
+                        if (text) {
+                            try {
+                                val = JSON.parse(text);
+                            } catch {
+                                //alert("JSON parse err")
+                                $(_this).css("background-color", "red")
+                                $(_this)[0].scrollIntoView(true)
+                            }
+                        }
+                    } else if ("string" === dtyp) {
+                        val = text
                     } else {
-                        alert("data type=" + dtyp)
+                        alert("fatal");
+                    }
+                    //update data
+                    if (text.length > 0) {
+                        MyBibTexAry[rowidx][skey] = val
+                    } else {
+                        if (MyBibTexAry[rowidx][skey]) {
+                            delete MyBibTexAry[rowidx][skey];
+                        }
                     }
                 })
                 var str = JSON.stringify(MyBibTexAry, null, 4)
@@ -89,7 +105,7 @@
 
 <body>
     <div style="position: fixed; left: 10px;">
-        <button onclick="TabExport()">TabExport</button>
+        <button onclick="TabExport()">TabExport</button><br>
         <textarea id="txa"></textarea>
     </div>
     <table border="1" id="tab">

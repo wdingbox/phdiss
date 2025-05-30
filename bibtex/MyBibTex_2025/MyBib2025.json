@@ -3048,32 +3048,7 @@
 			]
 		}
 	},
-	{
-		"id": "http://zotero.org/users/local/3vJuFSXv/items/R6J2SZUP",
-		"type": "book",
-		"event-place": "Beijing",
-		"publisher": "Oil Industry Press",
-		"publisher-place": "Beijing",
-		"title": "The Calendar and Prediction of the Heavenly Stems and the Earthly Branches [天干地支纪历与预测]",
-		"URL": "https://archive.org/details/10503893/page/5/mode/2up",
-		"author": [
-			{
-				"family": "Wen",
-				"given": "Wenbo"
-			},
-			{
-				"family": "Zhang",
-				"given": "Qing"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1996"
-				]
-			]
-		}
-	},
+	
 	{
 		"id": "http://zotero.org/users/local/3vJuFSXv/items/DXEYDJUJ",
 		"type": "document",

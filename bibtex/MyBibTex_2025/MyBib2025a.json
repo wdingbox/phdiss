@@ -1,6 +1,6 @@
 [
 	{
-		"id": "http://zotero.org/users/5656096/items/KC3A2F6B",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/KC3A2F6B",
 		"type": "book",
 		"edition": "3rd",
 		"publisher": "Cambridge University Press",
@@ -8,7 +8,7 @@
 		"author": [
 			{
 				"family": "Allen",
-				"given": "James"
+				"given": "James P."
 			}
 		],
 		"issued": {
@@ -20,7 +20,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/6K3EX262",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/6K3EX262",
 		"type": "document",
 		"title": "Faces of Ancient Egypt",
 		"URL": "https://isac.uchicago.edu/museum-exhibits/special-exhibits/faces-ancient-egypt",
@@ -38,7 +38,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/AHA6G9NE",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/AHA6G9NE",
 		"type": "thesis",
 		"genre": "UVM Honors College Senior Thesis",
 		"publisher": "The University of Vermont",
@@ -59,7 +59,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/23JHVC86",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/23JHVC86",
 		"type": "book",
 		"event-place": "Berkeley",
 		"publisher": "University of California Press",
@@ -80,7 +80,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/AVJSXM6I",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/AVJSXM6I",
 		"type": "book",
 		"edition": "Second Edition, Fiftieth Anniversary Printing",
 		"publisher": "University of California Press",
@@ -100,19 +100,18 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/LZCI682X",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/LZCI682X",
 		"type": "document",
 		"title": "Speyerer Evangelistar - Cod. Bruchsal 1",
 		"URL": "https://digital.blb-karlsruhe.de/blbdd/content/pageview/1217340",
 		"author": [
 			{
-				"family": "Landesbibliothek",
-				"given": "Badische"
+				"literal": "Badische Landesbibliothek"
 			}
 		]
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/6RF6ZK4W",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/6RF6ZK4W",
 		"type": "chapter",
 		"container-title": "The First Writing: Script Invention as History and Process",
 		"publisher": "Cambridge University Press",
@@ -138,7 +137,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/UEXFMWUF",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/UEXFMWUF",
 		"type": "chapter",
 		"container-title": "Legend, Lore, and Religion in China: Essays in Honor of Wolfram Eberhard on His Seventieth Birthday",
 		"event-place": "San Francisco, Calif.",
@@ -171,7 +170,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/JPBEYXV2",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/JPBEYXV2",
 		"type": "book",
 		"event-place": "London-New York",
 		"publisher": "Routledge-Curzon",
@@ -196,7 +195,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/PFZBZHCT",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/PFZBZHCT",
 		"type": "book",
 		"publisher": "Brill Academic Publishers",
 		"title": "Worlds Full of Signs: Ancient Greek Divination in Context",
@@ -215,7 +214,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/6CWTDZDT",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/6CWTDZDT",
 		"type": "book",
 		"publisher": "The British Museum Press",
 		"title": "Gods, Demons and Symbols of Ancient Mesopotamia: An Illustrated Dictionary",
@@ -238,7 +237,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/P78JVM62",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/P78JVM62",
 		"type": "thesis",
 		"event-place": "St. Louis",
 		"genre": "Master of Sacred Theology Thesis",
@@ -261,7 +260,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/ZQNCVIEE",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/ZQNCVIEE",
 		"type": "article-journal",
 		"container-title": "Oriens Extremus",
 		"page": "1–17",
@@ -283,7 +282,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/VSSZUUF4",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/VSSZUUF4",
 		"type": "book",
 		"edition": "3rd",
 		"publisher": "Addison-Wesley",
@@ -303,7 +302,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/4LDWHCQZ",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/4LDWHCQZ",
 		"type": "article-journal",
 		"container-title": "Expedition Magazine",
 		"issue": "2",
@@ -327,7 +326,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/6MUX5ZL6",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/6MUX5ZL6",
 		"type": "book",
 		"event-place": "Tsukuba, Chiba",
 		"publisher": "Tsukuba Christian Center",
@@ -349,7 +348,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/DW4GQGRN",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/DW4GQGRN",
 		"type": "book",
 		"publisher": "Xulon Press",
 		"title": "The Gospel Hidden in Chinese Characters: A Japanese Perspective",
@@ -368,7 +367,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/EGQZ7QVJ",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/EGQZ7QVJ",
 		"type": "article-journal",
 		"container-title": "Harvard Journal of Asiatic Studies",
 		"DOI": "10.2307/2717859",
@@ -392,7 +391,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/ADKLHKFE",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/ADKLHKFE",
 		"type": "book",
 		"event-place": "London",
 		"publisher": "J.M. Dent & Sons Limited",
@@ -413,7 +412,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/T8RHC4EN",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/T8RHC4EN",
 		"type": "book",
 		"event-place": "London",
 		"publisher": "John Murray",
@@ -435,7 +434,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/77U4TD35",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/77U4TD35",
 		"type": "book",
 		"event-place": "London",
 		"publisher": "Arcturus Publishing",
@@ -462,7 +461,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/T73A2E3C",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/T73A2E3C",
 		"type": "book",
 		"publisher": "Clydesdale",
 		"title": "The Egyptian Book of the Dead: The Complete Papyrus of Ani",
@@ -481,7 +480,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/PDWY63YN",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/PDWY63YN",
 		"type": "book",
 		"event-place": "London",
 		"publisher": "Arcturus Publishing",
@@ -508,7 +507,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/P4TP5FTD",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/P4TP5FTD",
 		"type": "book",
 		"event-place": "London",
 		"publisher": "Kegan Paul, Trench & Co., Ltd.",
@@ -530,7 +529,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/NTESHZ6E",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/NTESHZ6E",
 		"type": "webpage",
 		"title": "Who is the son in the OBI of the East Huayuanzhuang? [殷墟花園莊東地甲骨的主人「子」是誰?]",
 		"URL": "https://www.xianqin.org/blog/archives/8052.html",
@@ -549,7 +548,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/F8DCSVA4",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/F8DCSVA4",
 		"type": "article-journal",
 		"container-title": "Revue Biblique (1946-)",
 		"issue": "1",
@@ -572,7 +571,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/C4IFNF7E",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/C4IFNF7E",
 		"type": "book",
 		"event-place": "Wheaton",
 		"publisher": "Crossway",
@@ -593,7 +592,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/5TCY92ZD",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/5TCY92ZD",
 		"type": "book",
 		"event-place": "Lexington, KY",
 		"publisher": "CreateSpace",
@@ -620,7 +619,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/9NJAJXVM",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/9NJAJXVM",
 		"type": "book",
 		"edition": "3rd",
 		"event-place": "New Haven and London",
@@ -642,7 +641,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/ID5N9PTX",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/ID5N9PTX",
 		"type": "book",
 		"edition": "3rd",
 		"event-place": "New Haven and London",
@@ -664,7 +663,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/YM9YVRP6",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/YM9YVRP6",
 		"type": "article-journal",
 		"container-title": "Harvard Journal of Asiatic Studies",
 		"DOI": "10.2307/2719054",
@@ -688,7 +687,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/AQQEIXQH",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/AQQEIXQH",
 		"type": "webpage",
 		"title": "The Son in Er Shi OBI and the Son in Huayuanzhuangdong OBI [陈光宇: 二十号与花园庄东地甲骨的「子」考]",
 		"URL": "http://www.fdgwz.org.cn/Web/Show/1715",
@@ -707,7 +706,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/DYWUBK7C",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/DYWUBK7C",
 		"type": "document",
 		"title": "The Table of the Vocabulary of the Chinese Oracle Bone Inscriptions",
 		"URL": "https://www.xianqin.org/paper/Chennianfu_OBI_Table_20120409.pdf",
@@ -726,7 +725,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/KHB8GWAN",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/KHB8GWAN",
 		"type": "webpage",
 		"title": "Chinese Museum Offers Hefty Award for Deciphering Oracle Bone Characters",
 		"URL": "https://www.hnmuseum.com/en/aboutus/chinese-museum-offers-hefty-award-deciphering-oracle-bone-characters",
@@ -744,7 +743,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/ZX9WA5ZA",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/ZX9WA5ZA",
 		"type": "book",
 		"event-place": "Beijing",
 		"publisher": "Wen Wu Press",
@@ -770,7 +769,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/BSWFT3YH",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/BSWFT3YH",
 		"type": "document",
 		"title": "Kaogubaike",
 		"URL": "http://www.chinesearchaeology.net.cn/html/cn/kaoguyuandi/kaogubaike/2013/1025/34283.html",
@@ -788,7 +787,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/N3686U24",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/N3686U24",
 		"type": "document",
 		"title": "With Chinese Etymology",
 		"URL": "https://www.zdic.net",
@@ -799,7 +798,7 @@
 		]
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/73MB2RB5",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/73MB2RB5",
 		"type": "book",
 		"event-place": "Honolulu",
 		"publisher": "Eastward Garden Publishing",
@@ -820,7 +819,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/7RECZH3Y",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/7RECZH3Y",
 		"type": "article-journal",
 		"container-title": "Scientific American",
 		"issue": "4",
@@ -843,7 +842,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/TJ75VF4I",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/TJ75VF4I",
 		"type": "article-journal",
 		"container-title": "Tunghai Journal of Chinese Literature",
 		"issue": "16",
@@ -863,7 +862,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/4ZQSWL8V",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/4ZQSWL8V",
 		"type": "chapter",
 		"container-title": "Contextualization and Syncretism: Navigating Cultural Currents",
 		"event-place": "Pasadena, Calif.",
@@ -891,7 +890,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/7Q297BVI",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/7Q297BVI",
 		"type": "book",
 		"event-place": "昆明",
 		"publisher": "雲南人民出版社",
@@ -916,7 +915,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/G4AAQ2YI",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/G4AAQ2YI",
 		"type": "chapter",
 		"container-title": "The Linguistics of Literacy",
 		"event-place": "Amsterdam",
@@ -953,7 +952,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/XGUPDRWY",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/XGUPDRWY",
 		"type": "chapter",
 		"container-title": "Paroles à dire, paroles à écrire: Inde, Chine, Japon",
 		"event-place": "Paris",
@@ -982,7 +981,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/3YWJYQZQ",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/3YWJYQZQ",
 		"type": "book",
 		"event-place": "Toronto",
 		"note": "DOI: 10.3138/9781442673618",
@@ -1005,7 +1004,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/IUFLS7GZ",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/IUFLS7GZ",
 		"type": "book",
 		"event-place": "Shanghai",
 		"publisher": "Shanghai Ci Shu Press",
@@ -1026,7 +1025,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/HMK3E8F9",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/HMK3E8F9",
 		"type": "book",
 		"event-place": "Princeton",
 		"publisher": "Princeton University Press",
@@ -1047,7 +1046,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/XDHQ855L",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/XDHQ855L",
 		"type": "book",
 		"event-place": "Pasadena",
 		"publisher": "William Carey",
@@ -1068,7 +1067,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/9T35XFAD",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/9T35XFAD",
 		"type": "article-journal",
 		"container-title": "Early China",
 		"page": "1–26",
@@ -1090,7 +1089,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/9FBDTVQV",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/9FBDTVQV",
 		"type": "article-journal",
 		"container-title": "Zhongyuan Wenwu",
 		"issue": "4",
@@ -1115,7 +1114,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/RQFT4YHF",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/RQFT4YHF",
 		"type": "book",
 		"event-place": "Brooklyn",
 		"publisher": "The Brooklyn Museum",
@@ -1136,7 +1135,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/NQ8ZXSZ4",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/NQ8ZXSZ4",
 		"type": "book",
 		"event-place": "New York",
 		"publisher": "The Metropolitan Museum of Art",
@@ -1158,7 +1157,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/5MQJBZ78",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/5MQJBZ78",
 		"type": "article-journal",
 		"container-title": "Current Anthropology",
 		"issue": "3",
@@ -1180,7 +1179,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/FYVJJUJ3",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/FYVJJUJ3",
 		"type": "article-journal",
 		"container-title": "Biblica",
 		"issue": "2",
@@ -1203,7 +1202,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/NXUXUJGZ",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/NXUXUJGZ",
 		"type": "book",
 		"edition": "2nd",
 		"event-place": "Chicago, IL",
@@ -1225,7 +1224,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/3V3JME5Z",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/3V3JME5Z",
 		"type": "article-journal",
 		"container-title": "Journal of the American Oriental Society",
 		"DOI": "10.7817/jameroriesoci.137.1.0121",
@@ -1248,7 +1247,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/55R72WWH",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/55R72WWH",
 		"type": "article-journal",
 		"container-title": "Archiv Für Orientforschung",
 		"page": "51–72",
@@ -1270,7 +1269,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/RKN3ASWK",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/RKN3ASWK",
 		"type": "chapter",
 		"container-title": "Guo Mo-Rou’s Works [郭沫若全集]",
 		"event-place": "Beijing",
@@ -1298,7 +1297,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/8Z6IIJ2A",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/8Z6IIJ2A",
 		"type": "book",
 		"event-place": "Beijing",
 		"publisher": "Science Press",
@@ -1324,7 +1323,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/PDKYZ93L",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/PDKYZ93L",
 		"type": "book",
 		"event-place": "Beijing",
 		"publisher": "Chinese Social Science Institutes",
@@ -1354,7 +1353,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/R7C68GSN",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/R7C68GSN",
 		"type": "book",
 		"event-place": "Shanghai",
 		"publisher": "Shanghai Guji Press",
@@ -1375,7 +1374,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/MEVS4PCA",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/MEVS4PCA",
 		"type": "article-journal",
 		"container-title": "International Journal of Humanities",
 		"issue": "2",
@@ -1400,7 +1399,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/WLCU8THA",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/WLCU8THA",
 		"type": "chapter",
 		"container-title": "Contextualization: Meanings, Methods, and Models",
 		"event-place": "Pasadena",
@@ -1423,7 +1422,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/N48DV6DH",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/N48DV6DH",
 		"type": "book",
 		"collection-title": "Explorations in History Series",
 		"event-place": "Beijing",
@@ -1445,7 +1444,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/CM7K7AI7",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/CM7K7AI7",
 		"type": "book",
 		"event-place": "Chengdu",
 		"publisher": "BaShu [巴蜀書社]",
@@ -1470,7 +1469,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/QV3FG9EH",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/QV3FG9EH",
 		"type": "book",
 		"event-place": "Chengdu",
 		"publisher": "BaShu [巴蜀書社]",
@@ -1491,7 +1490,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/CBEM5NPU",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/CBEM5NPU",
 		"type": "book",
 		"event-place": "Hong Kong",
 		"publisher": "China Cultural Press",
@@ -1524,7 +1523,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/QLGMBW8Z",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/QLGMBW8Z",
 		"type": "book",
 		"event-place": "Taipei",
 		"publisher": "文史哲出版社",
@@ -1545,7 +1544,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/S2AHMEX5",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/S2AHMEX5",
 		"type": "book",
 		"event-place": "Buffalo, NY",
 		"publisher": "Christian Literature Publishing Co.",
@@ -1591,7 +1590,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/F93DQXHZ",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/F93DQXHZ",
 		"type": "book",
 		"publisher": "Concordia Publishing House",
 		"title": "The Discovery of Genesis: How the Truths of Genesis Were Found Hidden in the Chinese Language",
@@ -1614,7 +1613,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/K34868Y7",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/K34868Y7",
 		"type": "book",
 		"event-place": "Hong Kong",
 		"publisher": "Independent Printing",
@@ -1635,7 +1634,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/9UGEFRPA",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/9UGEFRPA",
 		"type": "article-journal",
 		"container-title": "Monumenta Serica",
 		"page": "467–471",
@@ -1657,7 +1656,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/EFEI9UTX",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/EFEI9UTX",
 		"type": "article-journal",
 		"container-title": "Representations",
 		"DOI": "10.2307/2928708",
@@ -1680,7 +1679,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/SEGUAVUI",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/SEGUAVUI",
 		"type": "article-journal",
 		"collection-title": "New Series",
 		"container-title": "American Anthropologist",
@@ -1702,7 +1701,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/ZPKQWD89",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/ZPKQWD89",
 		"type": "thesis",
 		"genre": "Master's Thesis",
 		"publisher": "University of British Columbia",
@@ -1723,7 +1722,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/P25U3XUW",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/P25U3XUW",
 		"type": "article-journal",
 		"container-title": "China National Museum Press [中国国家博物馆馆刊]",
 		"issue": "164",
@@ -1745,7 +1744,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/SKU35K8E",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/SKU35K8E",
 		"type": "book",
 		"event-place": "Seattle",
 		"publisher": "University of Washington Press",
@@ -1766,7 +1765,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/ZZ8Q64LU",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/ZZ8Q64LU",
 		"type": "book",
 		"edition": "2nd",
 		"event-place": "Shanghai",
@@ -1788,7 +1787,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/INUJ9SEW",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/INUJ9SEW",
 		"type": "book",
 		"event-place": "Taipei",
 		"ISBN": "978-986-01-8007-7",
@@ -1810,7 +1809,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/VBY536DJ",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/VBY536DJ",
 		"type": "article-journal",
 		"container-title": "Archaeological Research in Asia",
 		"page": "97–105",
@@ -1841,7 +1840,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/VI7PGH5Z",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/VI7PGH5Z",
 		"type": "article-journal",
 		"container-title": "Radiocarbon",
 		"issue": "1",
@@ -1870,7 +1869,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/BNPWUV2E",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/BNPWUV2E",
 		"type": "thesis",
 		"genre": "Master’s Thesis",
 		"publisher": "East China Normal University",
@@ -1890,7 +1889,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/ZKMYVKF5",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/ZKMYVKF5",
 		"type": "document",
 		"title": "On Contradiction",
 		"URL": "https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm",
@@ -1909,7 +1908,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/VCSQ7V3K",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/VCSQ7V3K",
 		"type": "book",
 		"publisher": "ZuuBooks",
 		"title": "Ancient Egypt: Light of the World Vol. 1 and 2 Complete with Biography and Poems",
@@ -1928,7 +1927,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/FLLNLFKV",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/FLLNLFKV",
 		"type": "chapter",
 		"container-title": "紀念殷墟甲骨文發現一百周年國際學術研討會論文集",
 		"event-place": "Beijing",
@@ -1961,7 +1960,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/WFLQ4CRW",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/WFLQ4CRW",
 		"type": "article-journal",
 		"container-title": "Yin Du Xue Kan [殷都学刊]",
 		"issue": "2",
@@ -1982,7 +1981,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/JG4DSDNP",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/JG4DSDNP",
 		"type": "book",
 		"event-place": "Paris",
 		"publisher-place": "Paris",
@@ -2002,7 +2001,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/HESW3K6V",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/HESW3K6V",
 		"type": "document",
 		"title": "Ebers Papyrus",
 		"URL": "https://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/Ebers.pdf",
@@ -2021,7 +2020,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/EAHED8W3",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/EAHED8W3",
 		"type": "book",
 		"publisher": "Concordia Publishing House",
 		"title": "Genesis and the Mystery Confucius Couldn't Solve",
@@ -2044,7 +2043,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/SJ4EWQ5X",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/SJ4EWQ5X",
 		"type": "book",
 		"event-place": "Berlin/Boston",
 		"publisher": "De Gruyter",
@@ -2065,7 +2064,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/MBKWVR2M",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/MBKWVR2M",
 		"type": "article-journal",
 		"container-title": "East and West",
 		"issue": "1/4",
@@ -2088,7 +2087,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/K38LTFCR",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/K38LTFCR",
 		"type": "book",
 		"event-place": "London",
 		"publisher": "Constable and Company Ltd.",
@@ -2109,7 +2108,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/63ZAJLC6",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/63ZAJLC6",
 		"type": "document",
 		"title": "Tech Firms Tighten Staff Scrutiny Over China Spying Concerns",
 		"URL": "https://www.pymnts.com/technology/2024/tech-firms-tighten-staff-scrutiny-over-china-spying-concerns/",
@@ -2127,7 +2126,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/XBQB6XFU",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/XBQB6XFU",
 		"type": "article-journal",
 		"container-title": "Gu Gong Po Wu Yuan",
 		"issue": "10",
@@ -2153,7 +2152,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/8VZU2G8M",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/8VZU2G8M",
 		"type": "book",
 		"event-place": "Ventura, CA",
 		"publisher": "Regal Books",
@@ -2174,7 +2173,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/AHZXTQU7",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/AHZXTQU7",
 		"type": "book",
 		"event-place": "Boston",
 		"publisher": "Beacon Press",
@@ -2201,7 +2200,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/NHIWNJXQ",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/NHIWNJXQ",
 		"type": "article-journal",
 		"container-title": "Numen",
 		"issue": "5–6",
@@ -2224,7 +2223,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/D63PIES7",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/D63PIES7",
 		"type": "book",
 		"event-place": "London: Harrison and Sons, Printers in Ordinary to Majesty",
 		"publisher": "The Society of Biblical Archaeology",
@@ -2250,7 +2249,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/NHPVTT4N",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/NHPVTT4N",
 		"type": "manuscript",
 		"title": "Winged Scarab Imagery in Judah: Yahweh as Khepri",
 		"URL": "https://www.academia.edu/5562359/Winged_Scarab_Imagery_in_Judah_Yahweh_as_Khepri",
@@ -2269,7 +2268,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/9BPRPAHB",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/9BPRPAHB",
 		"type": "book",
 		"event-place": "Chicago",
 		"publisher": "The Oriental Institute of the University of Chicago",
@@ -2291,7 +2290,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/SF5N7W9A",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/SF5N7W9A",
 		"type": "book",
 		"publisher": "Garber Books / Rudolf Steiner Publications",
 		"title": "From Sphinx to Christ (Treatise on Occult History)",
@@ -2310,7 +2309,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/6U3FBHRN",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/6U3FBHRN",
 		"type": "book",
 		"event-place": "Boston",
 		"publisher": "Walter de Gruyter Inc.",
@@ -2331,7 +2330,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/B9FPISUG",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/B9FPISUG",
 		"type": "book",
 		"event-place": "Shanghai",
 		"publisher": "Gu Ji Press",
@@ -2352,7 +2351,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/AIS5PYFS",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/AIS5PYFS",
 		"type": "book",
 		"event-place": "Tokyo",
 		"publisher": "Kyüko Shoin",
@@ -2373,7 +2372,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/DBX6W47H",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/DBX6W47H",
 		"type": "book",
 		"edition": "Revised Edition",
 		"event-place": "Tokyo",
@@ -2395,7 +2394,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/TMV8JN96",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/TMV8JN96",
 		"type": "chapter",
 		"container-title": "Writing and Literacy in Early China",
 		"publisher": "University of Washington Press",
@@ -2425,7 +2424,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/MTER3NYV",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/MTER3NYV",
 		"type": "article-journal",
 		"container-title": "Journal of Biblical Literature",
 		"DOI": "10.15699/jbl.1341.2015.2757",
@@ -2449,7 +2448,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/6AVPMIEH",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/6AVPMIEH",
 		"type": "article-journal",
 		"container-title": "International Journal of Tourism and Hospitality Management",
 		"issue": "2",
@@ -2473,7 +2472,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/UJ8KH5DB",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/UJ8KH5DB",
 		"type": "article-journal",
 		"container-title": "Han Xue Yan Jiu",
 		"issue": "4",
@@ -2496,7 +2495,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/2YGFQTPE",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/2YGFQTPE",
 		"type": "document",
 		"title": "About the Issues of the Yinxu Skeleton DNA Research and their Races [关于殷墟人骨DNA和殷墟人种问题我想说几句]",
 		"URL": "https://mp.weixin.qq.com/s/JiNA1qqeVXu4CmVVHBAwWw",
@@ -2515,7 +2514,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/6WTDKAV4",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/6WTDKAV4",
 		"type": "book",
 		"event-place": "Oxford",
 		"publisher": "Archaeopress Publishing Ltd.",
@@ -2536,7 +2535,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/WDQVY8GS",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/WDQVY8GS",
 		"type": "document",
 		"note": "Published: History Cooperative",
 		"title": "Snake Gods and Goddesses: 19 Serpent Deities from Around the World",
@@ -2556,7 +2555,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/T9TY7LD2",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/T9TY7LD2",
 		"type": "book",
 		"event-place": "Beijing",
 		"publisher": "Kexue",
@@ -2577,7 +2576,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/KNUCU6YE",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/KNUCU6YE",
 		"type": "book",
 		"event-place": "Beijing",
 		"publisher": "Scientific Press",
@@ -2604,7 +2603,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/XYTXCT24",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/XYTXCT24",
 		"type": "chapter",
 		"container-title": "Essays of Art History and Archaeology Dedicated to Professor Naoshi Tomobe (美の宴・西と東－美術史考古学論叢)",
 		"title": "Representation of the Mesopotamian weather god: symbolism of the bull and the axe as his divine attributes",
@@ -2629,7 +2628,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/BQ22THV8",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/BQ22THV8",
 		"type": "article-journal",
 		"container-title": "Topoi, Suppl.",
 		"page": "399–409",
@@ -2650,7 +2649,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/TEZFZ8WS",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/TEZFZ8WS",
 		"type": "document",
 		"note": "page: 1149–1160\npublisher-place: Napoli",
 		"title": "The Mythological Associations Implied in Assyrian Royal Bull Hunt",
@@ -2670,7 +2669,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/UJ7WHIWU",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/UJ7WHIWU",
 		"type": "book",
 		"event-place": "Spitalgasse",
 		"publisher": "Institut für Orientalistik der Universität Wien",
@@ -2691,9 +2690,8 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/38WQCFQN",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/38WQCFQN",
 		"type": "chapter",
-		"abstract": "ooioi",
 		"collection-title": "Ancient Near Eastern Archaeology 3",
 		"container-title": "Composite Artefacts in the Ancient Near East: Exhibiting and Imaginative Materiality, Showing a Genealogical Nature",
 		"event-place": "Summertown Pavilion, Oxford",
@@ -2721,7 +2719,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/W7LTFJH8",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/W7LTFJH8",
 		"type": "article-journal",
 		"container-title": "Orient",
 		"page": "175–192",
@@ -2742,7 +2740,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/C5I6WFV4",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/C5I6WFV4",
 		"type": "book",
 		"event-place": "USA",
 		"publisher": "Beacon Press",
@@ -2763,7 +2761,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/37P4J8KF",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/37P4J8KF",
 		"type": "book",
 		"publisher": "石油工业出版社",
 		"title": "The Heavenly Stems and Earthly Branches Calendar and Prediction [天干地支纪历与预测]",
@@ -2787,7 +2785,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/CXX2IZL6",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/CXX2IZL6",
 		"type": "book",
 		"event-place": "New York",
 		"publisher": "The Continuum International Publishing Group Inc.",
@@ -2808,7 +2806,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/ZXNVGVFY",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/ZXNVGVFY",
 		"type": "book",
 		"event-place": "Taipei",
 		"publisher": "Yiwen",
@@ -2829,7 +2827,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/ICFZPNIF",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/ICFZPNIF",
 		"type": "article-journal",
 		"container-title": "The Globe and Mail",
 		"title": "The Unsung Canadian Some Knew as 'Old Bones'",
@@ -2849,7 +2847,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/4YICRKV4",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/4YICRKV4",
 		"type": "book",
 		"publisher": "YuZhouGuang Press [宇宙光出版社]",
 		"title": "LaoZi vs the Bible—a Greeting Transcending Time and Space [老子VS.圣经-跨越时空的迎候]",
@@ -2868,7 +2866,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/2YMW8JIF",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/2YMW8JIF",
 		"type": "document",
 		"title": "QA: God and China",
 		"URL": "https://www.chinasoul.org/-/god-and-china",
@@ -2887,7 +2885,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/5TS69CAH",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/5TS69CAH",
 		"type": "document",
 		"title": "QA: Transcending Time and Space: About Lao Zi vs. the Bible",
 		"URL": "https://www.chinasoul.org/-/transcending-time-and-space",
@@ -2906,7 +2904,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/EHRWYPIJ",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/EHRWYPIJ",
 		"type": "chapter",
 		"collection-number": "2",
 		"container-title": "Fayyun Studies",
@@ -2939,7 +2937,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/5Z4ZGVMT",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/5Z4ZGVMT",
 		"type": "article-journal",
 		"container-title": "HuaXia KaoGu",
 		"issue": "2",
@@ -2967,7 +2965,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/RDBIYREJ",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/RDBIYREJ",
 		"type": "article-journal",
 		"container-title": "GuGongWenWuYueKan [故宮文物月刊]",
 		"issue": "141",
@@ -2989,7 +2987,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/U4QBVRGI",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/U4QBVRGI",
 		"type": "book",
 		"publisher": "Cambridge at the University Press",
 		"title": "Archaeological Studies in Szechwan: Conducted under the Auspices of the Harvard Yenching Institute and the West China Union University",
@@ -3008,7 +3006,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/VJS3BRFR",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/VJS3BRFR",
 		"type": "article-journal",
 		"container-title": "Zhong Yuan Wen Wu",
 		"issue": "3",
@@ -3029,7 +3027,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/3GX57Q6Q",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/3GX57Q6Q",
 		"type": "article-journal",
 		"container-title": "Bulletin of the National Museum of China [中国国家博物馆馆刊]",
 		"issue": "2022-10",
@@ -3051,7 +3049,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/UQSZ66NR",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/UQSZ66NR",
 		"type": "document",
 		"note": "Published: Eagle and Serpent Xia Dynasty Cultural Research & Innovation Institute\nDOI: 10.2139/ssrn.2851675",
 		"title": "The Origin of the Chinese Characters and the History of China in Ancient Egypt",
@@ -3071,7 +3069,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/J2PM3UK6",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/J2PM3UK6",
 		"type": "article-journal",
 		"container-title": "Zeitschrift Der Deutschen Morgenländischen Gesellschaft",
 		"issue": "2",
@@ -3094,7 +3092,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/5SB6YZAG",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/5SB6YZAG",
 		"type": "article-journal",
 		"container-title": "Wiener Zeitschrift Für Die Kunde Des Morgenlandes",
 		"page": "137–158",
@@ -3124,7 +3122,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/UXJPTZ8C",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/UXJPTZ8C",
 		"type": "book",
 		"event-place": "Taipei",
 		"publisher": "Taiwan Guji Press",
@@ -3145,7 +3143,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5656096/items/2VEC33IZ",
+		"id": "http://zotero.org/users/local/3vJuFSXv/items/2VEC33IZ",
 		"type": "book",
 		"publisher": "Harvard-Yenching Institute, Monographs Series 57. Brill",
 		"title": "To Become a God: Cosmology, Sacrifice, and Self-Divinization in Early China",
@@ -3159,53 +3157,6 @@
 			"date-parts": [
 				[
 					"2020"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/5656096/items/FASFMWGR",
-		"type": "paper-conference",
-		"language": "English",
-		"note": "Note:",
-		"publisher": "The Unicode Consortium",
-		"title": "Preliminary draft for the encoding of an extended Egyptian Hieroglyphs repertoire",
-		"URL": "https://www.unicode.org/L2/L2016/16079-hieroglyphs.pdf; or https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/tablemeaning.html.",
-		"author": [
-			{
-				"family": "Suignard",
-				"given": "Michel"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					4,
-					11
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/5656096/items/RRICX558",
-		"type": "article-journal",
-		"container-title": "KASKAL: Rivista di storia, ambient e culture del Vicino Oriente Antico, Padova",
-		"note": "Extra test. continuous.",
-		"page": "81-104",
-		"title": "Pictorial Narrative in Assyrian Art: The ‘Continuous Style’ Applied to the Battle of Til-Tuba",
-		"URL": "https://www.academia.edu/52418211/PICTORIAL_NARRATIVE_IN_ASSYRIAN_ART_THE_CONTINUOUS_STYLE_APPLIED_TO_THE_BATTLE_OF_TIL_TUBA",
-		"volume": "3",
-		"author": [
-			{
-				"family": "Watanabe",
-				"given": "Chikako E."
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2006"
 				]
 			]
 		}
